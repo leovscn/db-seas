@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.com",
+      "senha": "senha123",
+      "nome": "Usuário da API"
+    }
+  ],
+  "profile": {
+    "name": "leovscn"
+  }
+}
